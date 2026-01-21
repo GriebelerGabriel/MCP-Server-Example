@@ -1,0 +1,46 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Distribution / packaging
+.Python
+build/
+dist/
+*.egg-info/
+.eggs/
+
+# Virtual environments
+.venv/
+venv/
+ENV/
+
+# Test / coverage
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+
+# Type checkers
+.mypy_cache/
+.pyre/
+.pytype/
+
+# IDEs / editors
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+
+# Local Python version file
+.python-version
+
+# Ruff
+.ruff_cache/
+
+# Jupyter
+.ipynb_checkpoints/
